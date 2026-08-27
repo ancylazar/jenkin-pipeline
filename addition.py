@@ -1,6 +1,6 @@
 # addition.py
 
-a = 10
+a = 50
 b = 20
 result = a + b
 
